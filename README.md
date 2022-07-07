@@ -1,1 +1,1 @@
-# Animated
+Working on first website that has a animation that goes along with the website.
